@@ -6,7 +6,7 @@
   "author": "Patrick Kollitsch <patrick@davids-neighbour.com>",
   "keywords": [],
   "dependencies": {
-    "@davidsneighbour/release-config": "^2024.3.40",
+    "@davidsneighbour/release-config": "^2024.4.8",
     "@davidsneighbour/tools": "^2024.3.40"
   },
   "scripts": {
