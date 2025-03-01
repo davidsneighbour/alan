@@ -7,7 +7,7 @@
   "keywords": [],
   "devDependencies": {
     "@davidsneighbour/release-config": "2025.0.1",
-    "@davidsneighbour/tools": "2025.0.1"
+    "@davidsneighbour/tools": "2025.0.2"
   },
   "scripts": {
     "release": "wireit",
